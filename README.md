@@ -7,3 +7,10 @@ In the link below, you'll find interactive statistics notes that provide clear a
 - **User-Friendly Interface:** Simple and intuitive design for easy navigation.
 - **Comprehensive Notes:** Detailed explanations and notes covering key statistical topics.
 
+- Topics Covered:
+    - Introduction to Statistics
+    - Descriptive Statistics
+    - Probability Theory
+    - Random Variables
+    - Probability Distributions
+    - Statistical Distributions
