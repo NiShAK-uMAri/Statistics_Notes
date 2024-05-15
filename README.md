@@ -14,3 +14,5 @@ In the link below, you'll find interactive statistics notes that provide clear a
     - Random Variables
     - Probability Distributions
     - Statistical Distributions
+
+-- *Still working on building the app and adding new topics*
